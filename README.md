@@ -1,4 +1,9 @@
-scala-notes
-===========
+Coursera ProgFun
+================
+The original assigments from the Scala course on Coursera, without spoilers.
 
-My personal notes for the online course Functional Programming Principles in Scala at https://class.coursera.org/progfun-003/class
+https://www.coursera.org/course/progfun
+
+Specifically, the exercises are from the session that started in late 2013 (codename: `progfun-003`).
+
+I also added some personal notes and cheat sheets.
